@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<identitas>
+	<progdi id="TI">
+		<nama>Teknik Informatika</nama>
+		<fakultas>Teknologi Informasi dan Komunikasi</fakultas>
+		<universitas>Universitas Semarang</universitas>
+		<alamat>Jl. Soekarno Hatta</alamat>
+		<kota>Semarang</kota>
+		<propinsi>Jawa Tengah</propinsi>
+		<kodepos>50196</kodepos>
+		<telepon>(024)6702757</telepon>
+		<email>univ_smg@usm.ac.id</email>
+	</progdi>
+	<progdi id="SI">
+		<nama>Sistem Informasi</nama>
+		<fakultas>Teknologi Informasi dan Komunikasi</fakultas>
+		<universitas>Universitas Semarang</universitas>
+		<alamat>Jl. Soekarno Hatta</alamat>
+		<kota>Semarang</kota>
+		<propinsi>Jawa Tengah</propinsi>
+		<kodepos>50196</kodepos>
+		<telepon>(024)6702757</telepon>
+		<email>univ_smg@usm.ac.id</email>
+	</progdi>
+	<progdi id="IK">
+		<nama>Ilmu Komunikasi</nama>
+		<fakultas>Teknologi Informasi dan Komunikasi</fakultas>
+		<universitas>Universitas Semarang</universitas>
+		<alamat>Jl. Soekarno Hatta</alamat>
+		<kota>Semarang</kota>
+		<propinsi>Jawa Tengah</propinsi>
+		<kodepos>50196</kodepos>
+		<telepon>(024)6702757</telepon>
+		<email>univ_smg@usm.ac.id</email>
+	</progdi>
+</identitas>
