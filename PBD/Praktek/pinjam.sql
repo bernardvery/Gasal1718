@@ -53,8 +53,8 @@ INSERT INTO `anggota` (`ID_Anggota`, `nim`, `nama`, `progdi`) VALUES
 
 CREATE TABLE `buku` (
   `ID_Buku` int(20) NOT NULL,
-  `Judul` varchar(255) NOT NULL,
-  `Pengarang` varchar(255) NOT NULL,
+  `Judul` varchar(50) NOT NULL,
+  `Pengarang` varchar(30) NOT NULL,
   `Kategori` varchar(30) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
